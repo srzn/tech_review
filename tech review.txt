@@ -1,0 +1,9 @@
+The review will cover differences between Statisitcal Machine Translation and Neural Machine Translation and then will delve into state-of-the art NMT techniques viz. GNMT (Google's Neural Machine Translation System and it's variants), Harvard's seq2seq etc
+
+
+"https://ai.googleblog.com/2019/07/robust-neural-machine-translation.html
+
+https://github.com/harvardnlp/seq2seq-attn
+
+https://github.com/OpenNMT"
+
